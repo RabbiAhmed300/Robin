@@ -82,8 +82,8 @@ import getpass
 attemps = 0
 
 while attemps < 12345677901:
-    username = input('Dj Rabbi')
-    password = input('Bal Khan')
+    #username = input('Dj Rabbi')
+    #password = input('Bal Khan')
 
     if username == 'Dj Rabbi' and password == 'Bal Khan':
         print('You have successfully logged in.')
